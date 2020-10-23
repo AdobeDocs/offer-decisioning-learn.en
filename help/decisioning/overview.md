@@ -22,7 +22,7 @@ Tutorials and videos to help you learn Offer Decisioning, an application service
 <tr>
 <td>
     <a href="introduction-to-offer-decisioning.md">
-      <img alt="Introduction to Offer Decisioning" src="assets/34141.jpg" />
+      <img alt="Introduction to Offer Decisioning" src="assets/326961.jpg" />
     </a>
     <div>
       <a href="introduction-to-offer-decisioning.md">
@@ -35,7 +35,7 @@ Tutorials and videos to help you learn Offer Decisioning, an application service
 </td>
 <td>
     <a href="demo-of-offer-decisioning.md">
-      <img alt="Demo of Offer Decisioning" src="assets/34148.jpg" />
+      <img alt="Demo of Offer Decisioning" src="assets/326841.jpg" />
     </a>
     <div>
       <a href="demo-of-offer-decisioning.md">
