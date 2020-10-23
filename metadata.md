@@ -1,8 +1,8 @@
 ---
 cloud: experience platform
 product: experience platform
-solution: Experience Platform
-type: Documentation
+solution: Experience Platform, Offer Decisioning
+type: Tutorials
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/offer-decisioning-learn.en
 index: yes

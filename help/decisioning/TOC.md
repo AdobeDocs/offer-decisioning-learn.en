@@ -1,7 +1,7 @@
 ---
 user-guide-title: Offer Decisioning Videos &amp; Tutorials
 breadcrumb-title: Tutorials
-user-guide-description: These tutorials show you how to implement and use Offer Decisioning
+user-guide-description: These tutorials show you how to implement and use Offer Decisioning.
 audience: end-user
 ---
 
