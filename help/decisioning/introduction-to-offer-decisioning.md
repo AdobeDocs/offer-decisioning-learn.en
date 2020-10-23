@@ -21,4 +21,4 @@ This video gives an overview of Offer Decisioning, an application service built 
 ## Additional Resources
 
 * [Demo of Offer Decisioning (video)](demo-of-offer-decisioning.md)
-* [Offer Decisioning (documentation)](https://docs.adobe.com/content/help/en/experience-platform/intelligent-services/customer-ai/overview.html)
+* [Offer Decisioning (documentation)](https://experienceleague.adobe.com/docs/offer-decisioning/using/get-started/starting-offer-decisioning.html)
