@@ -5,8 +5,8 @@ user-guide-description: These tutorials show you how to implement and use Offer 
 audience: end-user
 ---
 
-# Offer Decisioning Videos and Tutorials {#tutorials}
+# [!DNL Offer Decisioning] Videos and Tutorials {#tutorials}
 
 + [Overview](overview.md)
-+ [Introduction to Offer Decisioning](introduction-to-offer-decisioning.md)
-+ [Demo of Offer Decisioning](demo-of-offer-decisioning.md)
++ [Introduction to [!DNL Offer Decisioning]](introduction-to-offer-decisioning.md)
++ [Demo of [!DNL Offer Decisioning]](demo-of-offer-decisioning.md)
