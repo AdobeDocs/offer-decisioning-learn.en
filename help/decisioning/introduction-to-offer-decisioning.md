@@ -10,9 +10,9 @@ activity: understand
 thumbnail: 326961.jpg
 ---
 
-# Introduction to Offer Decisioning
+# Introduction to [!DNL Offer Decisioning]
 
-This video gives an overview of Offer Decisioning, an application service built on top of Adobe Experience Platform. The video covers the business challenges Offer Decisioning solves, its key capabilities, the basic architecture, and its main use cases.
+This video gives an overview of [!DNL Offer Decisioning], an application service built on top of Adobe Experience Platform. The video covers the business challenges [!DNL Offer Decisioning] solves, its key capabilities, the basic architecture, and its main use cases.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/326961?quality=12&learn=on)
@@ -20,5 +20,5 @@ This video gives an overview of Offer Decisioning, an application service built 
 
 ## Additional Resources
 
-* [Demo of Offer Decisioning (video)](demo-of-offer-decisioning.md)
-* [Offer Decisioning (documentation)](https://experienceleague.adobe.com/docs/offer-decisioning/using/get-started/starting-offer-decisioning.html)
+* [Demo of [!DNL Offer Decisioning] (video)](demo-of-offer-decisioning.md)
+* [[!DNL Offer Decisioning] (documentation)](https://experienceleague.adobe.com/docs/offer-decisioning/using/get-started/starting-offer-decisioning.html)
