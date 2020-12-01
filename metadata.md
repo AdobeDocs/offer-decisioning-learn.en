@@ -2,7 +2,7 @@
 cloud: experience platform
 product: experience platform
 solution: Experience Platform, Offer Decisioning
-type: Tutorials
+type: Tutorial
 solution-title: Documentation
 solution-hub-url: https://docs.adobe.com/content/help/en/offer-decisioning/using/offer-decisioning-home.html
 getting-started-title: Community
