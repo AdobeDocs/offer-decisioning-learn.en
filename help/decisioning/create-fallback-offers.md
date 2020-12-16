@@ -3,7 +3,6 @@ title: Create fallback offers
 seo-title: Create fallback offers in Offer Decisioning
 description: This video shows how to create fallback offers in [!DNL Offer Decisioning]. Fallback offers have eligibility rules associated with them to help you show them only to relevant customers.
 feature: offers
-topics:
 kt: 6780
 audience: user
 doc-type: video

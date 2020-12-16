@@ -3,7 +3,6 @@ title: Create tags
 seo-title: Create tags in Offer Decisioning
 description: This video shows how to create tags in Offer Decisioning. Tags are optional building block components of offers.
 feature: offers
-topics:
 kt: 6753
 audience: user
 doc-type: video

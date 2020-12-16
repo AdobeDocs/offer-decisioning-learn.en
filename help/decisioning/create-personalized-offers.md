@@ -3,7 +3,6 @@ title: Create personalized offers
 seo-title: Create personalized offers in Offer Decisioning
 description: This video shows how to create personalized offers in [!DNL Offer Decisioning]. Personalized offers have eligibility rules associated with them to help you show them only to relevant customers.
 feature: offers
-topics:
 kt: 6753
 audience: user
 doc-type: video
