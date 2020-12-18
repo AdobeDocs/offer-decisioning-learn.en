@@ -20,3 +20,4 @@ This video shows how to create personalized offers in [!DNL Offer Decisioning]. 
 ## Additional Resources
 
 * [Create personalized offers (documentation)](https://experienceleague.adobe.com/docs/offer-decisioning/using/managing-offers-in-the-offer-library/creating-personalized-offers.html)
+* [Create personalized offers with API (documentation)](https://experienceleague.adobe.com/docs/offer-decisioning/using/api-reference/offers-api/personalized-offers/create.html)

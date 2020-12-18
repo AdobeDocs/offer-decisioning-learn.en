@@ -20,3 +20,4 @@ This video shows how to create tags in [!DNL Offer Decisioning]. Tags are option
 ## Additional Resources
 
 * [Create tags (documentation)](https://experienceleague.adobe.com/docs/offer-decisioning/using/managing-offers-in-the-offer-library/creating-tags.html)
+* [Create tags with API (documentation)](https://experienceleague.adobe.com/docs/offer-decisioning/using/api-reference/offers-api/tags/create.html)

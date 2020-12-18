@@ -20,3 +20,4 @@ This video shows how to create collections in [!DNL Offer Decisioning]. Collecti
 ## Additional Resources
 
 * [Create collections (documentation)](https://experienceleague.adobe.com/docs/offer-decisioning/using/managing-offers-in-the-offer-library/creating-collections.html)
+* [Create collections with API (documentation)](https://experienceleague.adobe.com/docs/offer-decisioning/using/api-reference/offers-api/collections/create.html)

@@ -20,3 +20,4 @@ This video shows how to create fallback offers in [!DNL Offer Decisioning]. Fall
 ## Additional Resources
 
 * [Create fallback offers (documentation)](https://experienceleague.adobe.com/docs/offer-decisioning/using/managing-offers-in-the-offer-library/creating-fallback-offers.html)
+* [Create fallback offers with API (documentation)](https://experienceleague.adobe.com/docs/offer-decisioning/using/api-reference/offers-api/fallback-offers/create.html)

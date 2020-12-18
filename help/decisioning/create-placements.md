@@ -20,3 +20,4 @@ This video shows how to create placements in [!DNL Offer Decisioning]. Placement
 ## Additional Resources
 
 * [Create placements (documentation)](https://experienceleague.adobe.com/docs/offer-decisioning/using/managing-offers-in-the-offer-library/creating-placements.html)
+* [Create placements with API (documentation)](https://experienceleague.adobe.com/docs/offer-decisioning/using/api-reference/offers-api/placements/create.html)

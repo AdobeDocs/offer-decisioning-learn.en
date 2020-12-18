@@ -20,3 +20,4 @@ This video shows how to create rules in [!DNL Offer Decisioning]. Rules or "deci
 ## Additional Resources
 
 * [Create decision rules (documentation)](https://experienceleague.adobe.com/docs/offer-decisioning/using/managing-offers-in-the-offer-library/creating-decision-rules.html)
+* [Create decision rules with API (documentation)](https://experienceleague.adobe.com/docs/offer-decisioning/using/api-reference/offers-api/decision-rules/create.html)
