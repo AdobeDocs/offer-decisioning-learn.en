@@ -16,4 +16,4 @@ audience: end-user
 + [Create personalized offers](create-personalized-offers.md)
 + [Create fallback offers](create-fallback-offers.md)
 + [Create collections](create-collections.md)
-+ [Create activities](create-activities.md)
++ [Create activities](create-offer-activities.md)
