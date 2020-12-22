@@ -17,3 +17,4 @@ audience: end-user
 + [Create fallback offers](create-fallback-offers.md)
 + [Create collections](create-collections.md)
 + [Create offer activities](create-offer-activities.md)
++ [Deliver offers with the Decisions API](deliver-offers-with-the-decisions-api.md)
