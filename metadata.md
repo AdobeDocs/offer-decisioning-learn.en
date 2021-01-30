@@ -4,11 +4,11 @@ product: experience platform
 solution: Experience Platform, Offer Decisioning
 type: Tutorial
 solution-title: Documentation
-solution-hub-url: https://docs.adobe.com/content/help/en/offer-decisioning/using/offer-decisioning-home.html
+solution-hub-url: https://experienceleague.adobe.com/docs/offer-decisioning/using/offer-decisioning-home.html
 getting-started-title: Community
 getting-started-url: https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/ct-p/adobe-experience-platform-community
 tutorials-title: Tutorials
-tutorials-url: https://docs.adobe.com/content/help/en/offer-decisioning-learn/tutorials/overview.html
+tutorials-url: https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/offer-decisioning-learn.en
 index: yes
