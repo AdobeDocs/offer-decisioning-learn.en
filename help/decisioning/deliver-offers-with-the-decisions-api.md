@@ -1,6 +1,6 @@
 ---
 title: Deliver offers with the Decisions API
-seo-title: Deliver offers in Offer Decisioning with the Decisions API
+seo-title: Deliver Offer Decisioning offers with the Decisions API
 description: This video shows how to deliver Offer Decisioning offers with the Decisions API. 
 feature: offers
 kt: 6819
