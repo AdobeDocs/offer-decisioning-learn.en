@@ -1,12 +1,8 @@
 ---
 title: Create offer activities
-seo-title: Create offer activities in Offer Decisioning
 description: This video shows how to create offer activities in [!DNL Offer Decisioning]. An offer activity combines your placements and collections into a single entity, so that a decision can be made to deliver the most relevant offer to the customer.
-feature: activities
+feature: Activities
 kt: 6791
-audience: user
-doc-type: video
-activity: use
 thumbnail: 329606.jpg
 ---
 

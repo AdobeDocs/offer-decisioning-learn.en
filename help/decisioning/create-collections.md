@@ -1,12 +1,8 @@
 ---
-title: Create collections offers
-seo-title: Create collections in Offer Decisioning
+title: Create collections
 description: This video shows how to create collections in [!DNL Offer Decisioning]. Collections have eligibility rules associated with them to help you show them only to relevant customers.
-feature: offers
+feature: Collections
 kt: 6747
-audience: user
-doc-type: video
-activity: use
 thumbnail: 329376.jpg
 ---
 

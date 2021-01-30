@@ -1,12 +1,8 @@
 ---
 title: Create placements
-seo-title: Create placements in Offer Decisioning
 description: This video shows how to create placements in Offer Decisioning. Placements are one of the required building block components of offers.
-feature: offers
+feature: Placements
 kt: 6736
-audience: user
-doc-type: video
-activity: use
 thumbnail: 329372.jpg
 ---
 

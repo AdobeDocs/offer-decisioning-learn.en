@@ -1,12 +1,8 @@
 ---
 title: Introduction to Offer Decisioning
 description: This video gives an overview of Offer Decisioning, an application service built on top of Adobe Experience Platform.
-feature: decisioning
 topics:
 kt: 6417
-audience: all
-doc-type: video
-activity: understand
 thumbnail: 326961.jpg
 ---
 

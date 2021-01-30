@@ -1,12 +1,9 @@
 ---
 title: Deliver offers with the Decisions API
-seo-title: Deliver Offer Decisioning offers with the Decisions API
 description: This video shows how to deliver Offer Decisioning offers with the Decisions API. 
-feature: offers
+role: Developer
+feature: API
 kt: 6819
-audience: user
-doc-type: video
-activity: use
 thumbnail: 329919.jpg
 ---
 

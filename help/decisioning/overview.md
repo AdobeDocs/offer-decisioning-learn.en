@@ -1,6 +1,5 @@
 ---
 title: Offer Decisioning Videos and Tutorials
-seo-description: Tutorials and videos to help you learn Offer Decisioning, an application service built on top of Adobe Experience Platform.
 description: Tutorials and videos to help you learn Offer Decisioning
 ---
 
