@@ -4,8 +4,8 @@ description: This video shows how to create tags in Offer Decisioning. Tags are 
 feature: Tags
 kt: 6753
 thumbnail: 329374.jpg
+exl-id: 155a35bf-8704-4e85-8647-479aecd2a9ce
 ---
-
 # Create tags
 
 This video shows how to create tags in [!DNL Offer Decisioning]. Tags are optional building block components of offers. They can be used to organize offers and group them in dynamic collections.

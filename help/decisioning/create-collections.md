@@ -4,8 +4,8 @@ description: This video shows how to create collections in [!DNL Offer Decisioni
 feature: Collections
 kt: 6747
 thumbnail: 329376.jpg
+exl-id: a255a0cd-b4ab-46a9-9c49-a4588ae12ea4
 ---
-
 # Create collections
 
 This video shows how to create collections in [!DNL Offer Decisioning]. Collections are used to manage offers in logical groups and are required to build [!DNL Offer Decisioning] activities. Dynamic collections allow you to group offers based on tags, while static collections allow you to manually curate the offers.

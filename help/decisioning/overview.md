@@ -1,8 +1,8 @@
 ---
 title: Offer Decisioning Videos and Tutorials
 description: Tutorials and videos to help you learn Offer Decisioning
+exl-id: a2636fe3-3b94-4105-bfc7-703ef17da24e
 ---
-
 # [!DNL Offer Decisioning] Videos and Tutorials
 
 Tutorials and videos to help you learn [!DNL Offer Decisioning], an application service built on top of Adobe Experience Platform.

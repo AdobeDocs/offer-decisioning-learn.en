@@ -4,8 +4,8 @@ description: This video shows how to create placements in Offer Decisioning. Pla
 feature: Placements
 kt: 6736
 thumbnail: 329372.jpg
+exl-id: 71d6fa23-e6e7-49d7-997c-c1b58207dff0
 ---
-
 # Create placements
 
 This video shows how to create placements in [!DNL Offer Decisioning]. Placements are one of the building block components of offers. A placement is the combination of content type and channel, for example, an image in an email or HTML code on a website.

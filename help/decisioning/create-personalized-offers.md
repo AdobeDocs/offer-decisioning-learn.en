@@ -5,8 +5,8 @@ description: This video shows how to create personalized offers in [!DNL Offer D
 feature: Offers
 kt: 6753
 thumbnail: 329375.jpg
+exl-id: 03428751-340f-4400-9162-b0f3021f1af1
 ---
-
 # Create personalized offers
 
 This video shows how to create personalized offers in [!DNL Offer Decisioning]. Personalized offers have eligibility rules associated with them to help you show them only to relevant customers. For example, you can restrict an offer for snow shovels to regions where it snows and only during the winter time.

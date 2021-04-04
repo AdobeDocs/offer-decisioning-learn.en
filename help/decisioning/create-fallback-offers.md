@@ -4,8 +4,8 @@ description: This video shows how to create fallback offers in [!DNL Offer Decis
 feature: Offers
 kt: 6780
 thumbnail: 329383.jpg
+exl-id: 77dad738-4046-410d-8886-e88f9c872320
 ---
-
 # Create fallback offers
 
 This video shows how to create fallback offers in [!DNL Offer Decisioning]. Fallback offers are default offers which are shown to customers who don't qualify for any of your personalized offers.
