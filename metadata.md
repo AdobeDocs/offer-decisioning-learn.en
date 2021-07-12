@@ -3,7 +3,7 @@ cloud: experience platform
 product: experience platform
 solution: Experience Platform, Offer Decisioning
 feature-set: Offer Decisioning
-role: Business Practitioner
+role: User
 type: Tutorial
 solution-title: Documentation
 solution-hub-url: https://experienceleague.adobe.com/docs/offer-decisioning/using/offer-decisioning-home.html
